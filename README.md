@@ -1,3 +1,6 @@
+#q no 1957
+<hr/>
+
 class Solution {
     public String makeFancyString(String s) {
         int n = s.length();
